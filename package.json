@@ -1,0 +1,24 @@
+{
+  "name": "node-mysql-util",
+  "version": "0.1.1",
+  "description": "A MySQL utility for Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dexterbrylle/node-mysql-util.git"
+  },
+  "keywords": [
+    "mysql",
+    "api",
+    "json"
+  ],
+  "author": "Dexter Brylle Matos <dexterbrylle@gmail.com> (http://dexterbrylle.xyz)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dexterbrylle/node-mysql-util/issues"
+  },
+  "homepage": "https://github.com/dexterbrylle/node-mysql-util#readme"
+}
